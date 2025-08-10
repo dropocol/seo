@@ -1,4 +1,4 @@
-# SEO Project - Handy Tools and Calculators
+# SEO Project
 
 This project contains HTML pages showcasing useful tools and calculators. Each page provides information about specific tools and their applications.
 
