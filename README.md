@@ -14,13 +14,13 @@ This project contains HTML pages showcasing useful tools and calculators. Each p
 
 A comprehensive word counting solution for content creators, writers, and professionals who need to track text length and meet specific word count requirements.
 
-**🔗 Access the Tool:** [Handy Tools Kit - Word Counter](https://handytoolskit.com/)
+**🔗 Access the Tool:** [https://handytoolskit.com](https://handytoolskit.com/)
 
 ### Grow a Garden Calculator
 
 A specialized calculator for Roblox's "Grow a Garden" game, helping players optimize their farming strategies and maximize profits through precise calculations.
 
-**🔗 Access the Calculator:** [My Grow a Garden Calculator](https://mygrowagardencalculator.com/)
+**🔗 Access the Calculator:** [https://mygrowagardencalculator.com](https://mygrowagardencalculator.com/)
 
 ## 🎯 Project Purpose
 
